@@ -16,23 +16,23 @@ const Natan = {
   tools: [
     "Laravel",
     "Symfony",
-    "AngularJS",
+    "Angular",
     "Vue",
+    "Jetstream",
+    "Inertia",
     "PWA",
     "Composer",
     "Node"
   ],
-  challenge: "Keeping the SFTP vscode extension fork up-to-date."
+  challenge: "Working on PowerBi and Tableau Software Embedded integration."
 }
 ```
 
 - 🔭 I’m currently working on: Please reffer to `challenge` inside the `Natan` const Object.
 - ⚡ Fun fact: I can fold my right ear in two.
 
-[![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/Natizyskunk)
-
 <!--
-**Natizyskunk/Natizyskunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nfourie-actinvision/nfourie-actinvision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
